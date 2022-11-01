@@ -3,8 +3,10 @@
 
 解压后拖到应用目录下,两个应用缺一不可，运用CleanMyMac X即可.
 
-链接: https://pan.baidu.com/s/1_xDfs1vdxQumUhUZmW5lXA?pwd=k9q1 提取码: k9q1 复制这段内容后打开百度网盘手机App，操作更方便哦 
---来自百度网盘超级会员v3的分享
+通过百度网盘分享的文件：cleanMyM....zip
+链接：https://pan.baidu.com/s/1usXxTIsi9mXOWmfUYZDSuA?pwd=667W 
+提取码：667W 
+复制这段内容打开「百度网盘APP 即可获取
 
 使用前，请关闭SIP，不然无效！！！
 ![contents](./4281661166636_.pic_hd.jpg)
